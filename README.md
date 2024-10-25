@@ -3,5 +3,4 @@
 - 👀 I’m interested in Fullstack web development.
 - 🌱 I’m currently learning backend development.
 
-  You can reach me via email at shreejanpkota009@gmail.com
 
